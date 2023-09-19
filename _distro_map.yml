@@ -1,0 +1,10 @@
+openshift-enterprise:
+  name: OpenShift Container Platform
+  author: OpenShift Documentation Project <openshift-docs@redhat.com>
+  site: commercial
+  site_name: Documentation
+  site_url: https://docs.openshift.com/
+  branches:
+    enterprise-4.13:
+      name: '4.13'
+      dir: container-platform/4.13

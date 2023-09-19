@@ -1,0 +1,6 @@
+:_content-type: ASSEMBLY
+[id="welcome-index"]
+= Documentation
+:context: welcome-index
+
+Hello world
